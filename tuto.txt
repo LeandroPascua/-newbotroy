@@ -1,0 +1,36 @@
+﻿——————————————————————————
+Comandos del bot:
+——————————————————————————
+1-
+/myuser para poder ver los datos actuales q tienes configurados.
+
+2-
+Configurar moodle
+/account usuario,contraseña
+
+/host link de la nube.
+
+Ejemplo: https://moodle.uclv.edu.cu/
+
+3-
+Ver archivos en la nube.
+/files
+
+4-
+/zip y la cantidad en MB de las partes a subir
+
+Ejemplo: /zip 50
+
+5-
+repo id es el repo de la nube q vas a usar cada nube tiene un repo en especifico asi q si no esta subiendo correctamente cambia el repo, recomiendo dejarlo en 4 asi:
+/repo 4
+——————————————————————————————
+Páginas webs soportadas:
+——————————————————————————————
+#MediaFire (Archivos)
+#YouTube 
+(Nota: Descargas muy lentas)
+#Heroku
+
+Si quieres subir al bot un archivo de Telegram, use el bot @tg_file_link_bot reenviadole el archivo,
+y después le envía el link al bot y empezará a descargar.
